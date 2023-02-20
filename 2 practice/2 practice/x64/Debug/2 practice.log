@@ -1,2 +1,14 @@
-﻿  main.cpp
+﻿  Circle.cpp
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Circle.cpp(17,20): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Circle.cpp(37,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Figure.cpp
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Figure.cpp(15,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Figure.cpp(16,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Figure.cpp(17,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Figure.cpp(18,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Figure.cpp(35,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\2 practice\Figure.cpp(36,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Triangle.cpp
+  main.cpp
+  Создание кода...
   2 practice.vcxproj -> C:\Users\danst\Desktop\учёба\c++\индустриальное\2 practice\x64\Debug\2 practice.exe
