@@ -1,25 +1,19 @@
 #pragma once
-#include <iostream>
-#include <cmath>
 class Triangle
 {
 private:
-	double a, b, c; // длины сторон
+	double a, b, c;
 
 public:
 	// указывает, может ли существовать данный треугольник
 	bool exst_tr();
-	
-	//обновляет значения сторон треугольника
-	void set(double a, double b, double c);
-
+	// обновляет значения сторон треугольника
+	void set(double _a, double _b, double _c);
 	// выводит параметры треугольника на экран
 	void show();
-
 	// возвращает периметр треугольника
-	double permetr();
-
+	double perimetr();
 	// возвращает площадь треугольника
 	double square();
-
 };
+
