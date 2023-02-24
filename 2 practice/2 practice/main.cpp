@@ -11,7 +11,7 @@ int main()
 	setlocale(LC_ALL, "Russian");
 	//task1();
 	//task2();
-	task3();
+	task2();
 	return 0;
 }
 
