@@ -1,2 +1,7 @@
 ﻿  main.cpp
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(99,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(100,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(101,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(102,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(103,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
   openGL.vcxproj -> C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\x64\Debug\openGL.exe

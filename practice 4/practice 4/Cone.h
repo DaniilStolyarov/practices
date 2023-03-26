@@ -29,5 +29,8 @@ public:
 	double getY();
 	double getZ();
 
+	bool operator> (Cone& cone);
+	bool operator< (Cone& cone);
+	bool operator==(Cone& cone);
 };
 

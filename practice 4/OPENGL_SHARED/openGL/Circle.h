@@ -6,10 +6,17 @@
 #include <iostream>
 using namespace std;
 using namespace glm;
+
+struct CutConicFace
+{
+	vector<float>* vertices;
+	vector<unsigned int>* indices;
+};
+
 class Circle
 {
 private:
-	unsigned int quality = 1000; // vertices count
+	unsigned int quality = 100; // vertices count
 	vector<vec3> vertices;
 	vector<unsigned int> indices;
 	void calcVertices();
@@ -22,5 +29,7 @@ public:
 	vector<float>* getVertices(); 
 	vector<unsigned int>* getIndices();
 
+	// делает коническую поверхность из двух кругов
+	static CutConicFace getCutConicVertices(Circle* c1, Circle* c2, float height);
 };
 

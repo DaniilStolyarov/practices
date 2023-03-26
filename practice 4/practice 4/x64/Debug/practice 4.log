@@ -1,2 +1,7 @@
-﻿  main.cpp
-  practice 4.vcxproj -> C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\x64\Debug\practice 4.exe
+﻿  CutCone.cpp
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\practice 4\CutCone.cpp(32,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\practice 4\CutCone.cpp(56,2): error C2280: "std::basic_ostream<char,std::char_traits<char>>::basic_ostream(const std::basic_ostream<char,std::char_traits<char>> &)": предпринята попытка ссылки на удаленную функцию
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ostream(59,24): message : см. объявление "std::basic_ostream<char,std::char_traits<char>>::basic_ostream"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\ostream(59,24): message : "std::basic_ostream<char,std::char_traits<char>>::basic_ostream(const std::basic_ostream<char,std::char_traits<char>> &)": функция явно удалена.
+  main.cpp
+  Создание кода...

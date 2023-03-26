@@ -72,3 +72,17 @@ double Cone::volume()
 	return PI * radius * radius * height / 3;
 }
 
+bool Cone::operator>(Cone& cone)
+{
+	return this->volume() > cone.volume();
+}
+
+bool Cone::operator<(Cone& cone)
+{
+	return this->volume() < cone.volume();
+}
+
+bool Cone::operator==(Cone& cone)
+{
+	return (this->height == cone.height) && (this->radius == cone.radius);
+}

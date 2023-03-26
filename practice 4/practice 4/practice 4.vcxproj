@@ -128,10 +128,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cone.cpp" />
+    <ClCompile Include="CutCone.cpp" />
+    <ClCompile Include="Gulf.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Ocean.cpp" />
+    <ClCompile Include="Sea.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cone.h" />
+    <ClInclude Include="CutCone.h" />
+    <ClInclude Include="Gulf.h" />
+    <ClInclude Include="Ocean.h" />
+    <ClInclude Include="Sea.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,15 +1,1 @@
-﻿  main.cpp
-C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(91,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(92,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(93,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(94,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\main.cpp(95,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
-LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
-  Создание кода
-  Previous IPDB and IOBJ mismatch, fall back to full compilation.
-C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\openGL\Engine.cpp(97): warning C4715: Engine::start: значение возвращается не при всех путях выполнения
-  All 505 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-glew32s.lib(glew.obj) : warning LNK4099: "" PDB не найден с "glew32s.lib(glew.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
-  openGL.vcxproj -> C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\x64\Release\openGL.exe
+﻿  openGL.vcxproj -> C:\Users\danst\Desktop\учёба\c++\индустриальное\practice 4\OPENGL_SHARED\x64\Release\openGL.exe
